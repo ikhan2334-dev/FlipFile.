@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pikepdf==8.11.0
+pdf2docx==0.5.7
+Pillow==10.1.0
+PyMuPDF==1.23.8
+python-multipart==0.0.6
+python-magic==0.4.27
+python-dateutil==2.8.2
+cryptography==41.0.7
+pyopenssl==23.2.0
+aiofiles==23.2.1
+httpx==0.25.1
+pydantic==2.5.0
+pydantic-settings==2.1.0
